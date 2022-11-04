@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anish-rally
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anish Kumar
+- 👀 My hobbies are playing cricket, watching cricket and reading books.
+- 🌱 I’m currently learning scala,react and python
+- 💞️ I’d love to contribute on making world a better place in terms of technological advancements.
+- 📫 Feel free to reach me on teams, [linkedin-](https://www.linkedin.com/in/anishkumar96/) and gmail:-anish.9696@gmail.com 
 
 <!---
 anish-rally/anish-rally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
